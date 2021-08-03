@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.8.2
+
+### Patch Changes
+
+- [`43f66097b`](https://github.com/chakra-ui/chakra-ui/commit/43f66097b39f1c37a4627dd6ca8a85555f35b95c)
+  [#4458](https://github.com/chakra-ui/chakra-ui/pull/4458) Thanks
+  [@agundermann](https://github.com/agundermann)! - Fix issues when rendering
+  chakra components in different window
+
 ## 1.8.1
 
 ### Patch Changes

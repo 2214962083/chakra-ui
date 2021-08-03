@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.3.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`43f66097b`](https://github.com/chakra-ui/chakra-ui/commit/43f66097b39f1c37a4627dd6ca8a85555f35b95c)]:
+  - @chakra-ui/utils@1.8.2
+
 ## 1.3.3
 
 ### Patch Changes
